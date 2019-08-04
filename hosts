@@ -21,7 +21,9 @@ ff02::3 ip6-allhosts
 #=====================================
 
 #Test
-0.0.0.0 news.yahoo.com
+
 
 #Ads
-myfastcdn.com
+0.0.0.0 myfastcdn.com
+0.0.0.0 forcedolphin.com
+0.0.0.0 blogspot.com
